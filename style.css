@@ -1,0 +1,18 @@
+body {
+
+    /* Marge sur les quatre cotés (auto) permet de centrer les élèments*/
+    margin: auto; 
+    /* Taille max de l'élément */
+    max-width: 650px;
+    /* Couleur du texte */
+    color: #444;
+    /* Taille du texte */
+    font-size: 18px;
+    /* Espace entre les lignes (pas d'unité si on veut juste un facteur multiplicateur) -> méthode à privilègier */
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    /* Espace entre les lignes (pas d'unité si on veut juste un facteur multiplicateur) -> méthode à privilègier */
+    line-height: 1.2;
+}
